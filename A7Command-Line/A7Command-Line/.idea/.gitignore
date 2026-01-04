@@ -1,0 +1,19 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/.idea.A7Command-Line.iml
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Zencoder local files
+/zencoder
+/zencoder-chat-index.xml
+/zencoder-chats-dedicated.xml

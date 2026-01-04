@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
 using A7Command_Line.Commands.Abstraction;
-using MyShell.Core;
 
 
 namespace A7Command_Line.Commands

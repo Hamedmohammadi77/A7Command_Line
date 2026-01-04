@@ -2,8 +2,8 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <TargetFramework>net10.0</TargetFramework>
-        <RootNamespace>A7Command_Line</RootNamespace>
+        <TargetFramework>net8.0-windows</TargetFramework>  <!-- use installed SDK -->
+        <UseWindowsForms>true</UseWindowsForms>            <!-- if using WinForms -->
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
     </PropertyGroup>
