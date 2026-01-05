@@ -1,0 +1,16 @@
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.exe
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.deps.json
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.runtimeconfig.json
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.runtimeconfig.dev.json
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.dll
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\ref\A7Command.dll
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\A7Command.pdb
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.csproj.AssemblyReference.cache
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.AssemblyInfoInputs.cache
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.AssemblyInfo.cs
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.csproj.CoreCompileInputs.cache
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.dll
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\ref\A7Command.dll
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.pdb
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\obj\Release\net5.0-windows\win-x64\A7Command.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\publish\A7Command.pdb
+F:\Project\my_project\A7Command_Line\A7Command\A7Command\bin\Release\net5.0-windows\win-x64\publish\A7Command.exe
